@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428554762480",
+    "project_id": "yozicare-ae4be",
+    "storage_bucket": "yozicare-ae4be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428554762480:android:619f59ffcc99f8cc196a35",
+        "android_client_info": {
+          "package_name": "com.example.gdsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428554762480-4gt0p978r06du6v2rq5f1ntis4b7ibi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgTmM6VDf9qRA-uRrOxnu2TcyX9__lYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428554762480-4gt0p978r06du6v2rq5f1ntis4b7ibi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
